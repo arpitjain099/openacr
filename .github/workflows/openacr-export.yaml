@@ -3,6 +3,9 @@ name: OpenACR Export
 on:
   pull_request:
 
+permissions:
+  contents: read
+
 jobs:
   build-test:
     name: Building app and generate export of all reports including the data table.

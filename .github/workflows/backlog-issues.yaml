@@ -6,6 +6,11 @@ on:
       - reopened
       - opened
 
+permissions:
+  contents: read
+  issues: write
+  repository-projects: write
+
 jobs:
   triage_issues:
     if: github.repository == 'GSA/openacr'

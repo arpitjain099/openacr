@@ -3,6 +3,9 @@ name: OpenACR output accessibility testing
 on:
   pull_request:
 
+permissions:
+  contents: read
+
 jobs:
   build-test:
     name: Building app, generate output examples and test for accessibility issues

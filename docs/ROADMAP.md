@@ -17,7 +17,7 @@
 
 <table>
   <tr><td> - </td><td> <img src="/docs/images/noun_submit_1862632.svg"> </td><td> Build process to submit vendor ACRs. Vendors need to be able to submit new ACRs to the GSA. </td></tr>
-  <tr><td> - </td><td> <img src="/docs/images/noun_update_3878124.svg"> </td><td> Proccess to get updates from vendors version control repositories (git). Updates need to be pulled from the source from key government ICT suppliers. </td></tr>
+  <tr><td> - </td><td> <img src="/docs/images/noun_update_3878124.svg"> </td><td> Process to get updates from vendors version control repositories (git). Updates need to be pulled from the source from key government ICT suppliers. </td></tr>
   <tr><td> - </td><td> <img src="/docs/images/noun_comparison_3858497.svg/"> </td><td> OpenACR Comparison Tool - it should be simple to compare OpenACRs to understand relative accessibility.  </td></tr>
   <tr><td> - </td><td> <img src="/docs/images/noun_text editor_2245371.svg"> </td><td> OpenACR Editor - Editors need to be able to create, load, update and save OpenACR documents in a YAML format. </td></tr>
   <tr><td> - </td><td> <img src="/docs/images/noun_documentation_3159052.svg"> </td><td> Procurement focused documentation. Procurement teams in government need to understand how OpenACR changes their workflow. </td></tr>
